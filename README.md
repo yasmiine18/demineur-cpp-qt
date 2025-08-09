@@ -21,7 +21,9 @@ Projet réalisé en C++ avec le framework Qt, reproduisant le célèbre jeu du d
 - Qt Linguist (fichiers `.ts`)
 
 ##  Aperçu
-*(Ajouter ici des captures d’écran du jeu si possible)*
+<img width="497" height="611" alt="image" src="https://github.com/user-attachments/assets/20ea4d6b-afdc-44b4-bf37-900c0e12bb43" />
+<img width="252" height="164" alt="image" src="https://github.com/user-attachments/assets/c46265d9-ccfe-4a7a-9eba-fe9ea494a3e6" />
+
 
 ##  Lancer le projet
 1. Ouvrir le projet avec **Qt Creator**
